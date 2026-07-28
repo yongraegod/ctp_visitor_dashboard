@@ -1,0 +1,6 @@
+{
+  "name": "셀트리온제약 본사 방문자 관리시스템",
+  "description": "임직원의 외부방문자 사전 방문 신청, 보안실 실시간 조회 및 공유, Excel 다운로드/등록 및 모바일 최적화 방문 관리 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
